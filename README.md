@@ -1,5 +1,3 @@
-## Hi there 👋
-
-![MrLarkyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrlarkyy&show_icons=true&bg_color=00000000)
-
-[![MrLarkyy's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrLarkyy_&layout=compact)](https://github.com/mrlarkyy)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
