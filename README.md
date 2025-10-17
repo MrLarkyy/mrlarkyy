@@ -3,7 +3,7 @@
 </picture>
 
 ## My Collaborations
-<p style="text-align: center;">I've had the pleasure of working with some amazing Minecraft servers and content creators.</p>
+<center>I've had the pleasure of working with some amazing Minecraft servers and content creators.</center>
 
 <picture>
   <img src="https://aquatic.gg/mineclub.png" alt="Mineclub">
