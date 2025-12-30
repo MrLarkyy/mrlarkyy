@@ -33,3 +33,5 @@
 <picture>
   <img height=100px width=100px src="https://aquatic.gg/diamondxr.png" alt="Diamondxr">
 </picture>
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=MrLarkyy&countColor=%23263759)
