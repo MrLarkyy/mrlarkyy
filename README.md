@@ -103,7 +103,7 @@ I’m open to:
 - backend-heavy projects
 - tooling & infrastructure work
 
-Feel free to reach out via GitHub if you'd like to work together.
+Feel free to reach out via Discord if you'd like to work together.
 
 ---
 
