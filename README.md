@@ -112,3 +112,4 @@ Feel free to reach out via Discord if you'd like to work together.
 <img src="https://img.shields.io/badge/Focus-Backend-important?style=for-the-badge" />
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=MrLarkyy&countColor=%23263759)
+![](https://hit.yhype.me/github/profile?account_id=48769171)
