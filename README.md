@@ -107,8 +107,4 @@ Feel free to reach out via Discord if you'd like to work together.
 
 ---
 
-<img src="https://img.shields.io/badge/Code%20Style-Clean%20Code-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Architecture-Modular-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Backend-important?style=for-the-badge" />
-
 [![Tadeáš Ganzwohl profile views](https://u8views.com/api/v1/github/profiles/48769171/views/day-week-month-total-count.svg)](https://u8views.com/github/MrLarkyy)
