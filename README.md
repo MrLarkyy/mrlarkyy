@@ -108,3 +108,4 @@ Feel free to reach out via Discord if you'd like to work together.
 ---
 
 [![Tadeáš Ganzwohl profile views](https://u8views.com/api/v1/github/profiles/48769171/views/day-week-month-total-count.svg)](https://u8views.com/github/MrLarkyy)
+[![GitHub Commits Badge](https://ghcommits.com/api/badge/MrLarkyy.svg)](https://ghcommits.com/u/MrLarkyy)
