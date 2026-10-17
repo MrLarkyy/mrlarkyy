@@ -142,7 +142,8 @@
       "1",
       "1"
     ],
-    "logosRow": 5
+    "logosRow": 5,
+    "languageShare": "repositories"
   },
   "footer": {
     "headline": "Open to long-term collaborations.",
