@@ -1,6 +1,6 @@
 # Readmint setup
 
-The profile README is rendered by the [Readmint](https://github.com/MrLarkyy/Readmint) Action (`.github/workflows/readmint.yml`, pinned to `v0.3.0`) from the designs in `designs/year-ring/`. The generated SVGs (`header.svg`, `header.dark.svg`, ...) are committed here by the workflow; do not edit them by hand.
+The profile README is rendered by the [Readmint](https://github.com/MrLarkyy/Readmint) Action (`.github/workflows/readmint.yml`, pinned to `v0.5.0`) from the designs in `designs/year-ring/`, listed in the render manifest `designs/year-ring/renders.json` (every entry is rendered light and dark). The generated SVGs (`header.svg`, `header.dark.svg`, ...) are committed here by the workflow; do not edit them by hand.
 
 - **Texts**: everything personal is in `designs/year-ring/settings.json` (intro, index rows, "Shipped for", footer contact). Edit it and push; the workflow runs again.
 - **Token**: the workflow reads the repository secret `PROFILE` (Settings, Secrets and variables, Actions). It is a personal access token of the profile owner; with it private contributions are counted in the ring and the totals (no private repository name is ever drawn). Without a token that can read them the sections show a plain fallback line. The token is never written to a file or a log.

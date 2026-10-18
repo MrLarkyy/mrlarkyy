@@ -18,22 +18,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      - uses: MrLarkyy/Readmint@v0.4.0
+      - uses: MrLarkyy/Readmint@v0.5.0
         with:
           login: MrLarkyy
           token: ${{ secrets.PROFILE }}
           commit-message: Update Readmint graphics
-          designs: |
-            readmint/designs/year-ring/header.json
-            readmint/designs/year-ring/year.json
-            readmint/designs/year-ring/index.json
-            readmint/designs/year-ring/recent.json
-            readmint/designs/year-ring/work.json
-            readmint/designs/year-ring/repo-1.json
-            readmint/designs/year-ring/repo-2.json
-            readmint/designs/year-ring/repo-3.json
-            readmint/designs/year-ring/repo-4.json
-            readmint/designs/year-ring/repo-5.json
-            readmint/designs/year-ring/repo-6.json
-            readmint/designs/year-ring/footer.json
+          manifest: readmint/designs/year-ring/renders.json
           props-file: readmint/designs/year-ring/settings.json
